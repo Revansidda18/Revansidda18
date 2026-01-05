@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduate Engineer (BE) - Computer Science (CGPA-8.4)<br>Aspiring Java Full Stack Developer <br>I worked at Rooman Technologies as Freelancer <br>I completed Internship in Jspider Banglore<br>
+Graduate Engineer (BE) - Computer Science (CGPA-8.4)<br>Aspiring Java Full Stack Developer <br>I worked at Rooman Technologies as Freelancer <br>I completed Internship in Jspider Banglore in Java Full Stack Development<br>
 
 
 ## 🌐 Socials:
